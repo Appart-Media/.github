@@ -28,7 +28,3 @@ on the devices and browsers this has been tested on, as well as any relevant
 images for UI changes._
 
 ## [Optional] Are there any post deployment tasks we need to perform?
-
-## [Optional] What gif best describes this PR or how it makes you feel?
-![alt_text](gif_link)
-
